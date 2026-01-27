@@ -1,0 +1,37 @@
+# ESPHome
+.esphome/
+.pio/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+*.bin
+*.elf
+*.map
+*.hex
+
+# PlatformIO
+.pioenvs/
+.piolibdeps/
+
+# Project specific
+node_modules/
